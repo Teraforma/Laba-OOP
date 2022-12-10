@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Degustatotor_Laba_OOP/1.0.0": {
+        "runtime": {
+          "Degustatotor_Laba_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Degustatotor_Laba_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
